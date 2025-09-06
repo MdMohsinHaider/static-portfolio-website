@@ -3,6 +3,10 @@
 This is the personal portfolio website for **Md Mohsin Haider**, Java Full Stack Developer.  
 It is fully responsive, supports light and dark themes, and features modern navigation—including a dynamic burger menu for mobile devices.
 
+## Live Site
+
+live at: [https://mdmohsinhaider.github.io/static-portfolio-website/](https://mdmohsinhaider.github.io/static-portfolio-website/)
+
 ## Features
 
 - Responsive design for all devices
